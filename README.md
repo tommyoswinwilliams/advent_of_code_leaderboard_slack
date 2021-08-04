@@ -2,7 +2,7 @@
 
 This is a small adaptation of the wonderful work done by tomswartz07, see the original repo and their code [here](https://github.com/tomswartz07/AdventOfCodeLeaderboard).
 
-# Slightly Updated Original README
+## Slightly Updated Original README
 
 This repository contains the code for a script that will post a Private Advent of Code Leaderboard to a custom Slack Channel.
 
